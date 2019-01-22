@@ -9,7 +9,7 @@ With some basic JavaScript principles in hand, we can now expand our skills out 
 * [ ] Clone the forked project into a directory on your machine
 * [ ] You are now ready to build this project with your preferred IDE
 * [ ] To test your `console.log()` statements, open up the index.html file found in the assignments folder and use the developer tools to view the console.  
-
+   
 
 ## Task 2: Callbacks
 
